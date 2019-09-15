@@ -1,0 +1,28 @@
+nav {
+    background-color:grey;
+}
+
+#toggle-button {
+color: pink;
+}
+
+.jumbotron{
+    background-image: url("../images/hero.jpg");
+    background-size:cover;
+    background-position: bottom;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+}
+.jumbotron h1,
+.jumbotron p{
+    color:rgb(192, 255, 226)
+}
+
+tiger-font{
+    font-family:'Courier New', Courier, monospace;
+}
+
+#courses img{
+    border-radius: 1rem;
+}
